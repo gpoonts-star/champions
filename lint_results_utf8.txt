@@ -1,0 +1,16 @@
+﻿
+C:\Users\anask\OneDrive\Desktop\champions\app\admin\dashboard\page.tsx
+   33:8   warning  React Hook useEffect has a missing dependency: 'router'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  128:56  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`                                            react/no-unescaped-entities
+
+C:\Users\anask\OneDrive\Desktop\champions\app\layout.tsx
+  9:10  error  'SocialHeader' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\anask\OneDrive\Desktop\champions\components\rating-system.tsx
+  6:22  error  'User' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\anask\OneDrive\Desktop\champions\postcss.config.mjs
+  1:1  warning  Assign object to a variable before exporting as module default  import/no-anonymous-default-export
+
+✖ 5 problems (3 errors, 2 warnings)
+
